@@ -1,0 +1,25 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "元拓规范化文档项目"
+  text: "构建规范库"
+  tagline: 持续进步
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /front-end/specification/HTML 规范
+    - theme: alt
+      text: API Examples
+      link: /front-end/specification/HTML 规范
+
+features:
+  - title: 前端开发规范
+    details: 确保用户界面一致性和优化用户体验
+  - title: 后端开发规范
+    details: 维护系统稳定性和高效的数据处理
+  - title: 产品开发规范
+    details: 定义产品功能和质量标准，确保满足用户需求
+---
+
